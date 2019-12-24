@@ -1,0 +1,7 @@
+.content{
+	display: flex;
+}
+ul li:hover{
+	cursor: pointer;
+	text-decoration: underline;
+}

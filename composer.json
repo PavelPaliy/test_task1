@@ -1,0 +1,16 @@
+{
+    "name": "paliy/test_task1",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "twig/twig": "^3.0",
+        "symfony/assetic-bundle": "^2.8",
+        "twbs/bootstrap": "4.0.0-alpha.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "test_task1\\": ""
+        }
+    }
+}
